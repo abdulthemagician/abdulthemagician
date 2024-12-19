@@ -1,6 +1,6 @@
 # Hello, Everyone! 👋
 
-My name is **Thanapol Suwannamek**, and I'm a 22-year-old Computer Science (freshman) student at **Ramkhamhaeng University**. I’m deeply passionate about the exciting fields of **AI/Deep Learning**, and I also have a strong interest in **Quantum Physics**, **Space Exploration**, and other intriguing areas of science.
+My name is **Thanapol Suwannamek**, and I'm a Computer Science (freshman) student at **Ramkhamhaeng University**. I’m deeply passionate about the exciting fields of **AI/Deep Learning**, and I also have a strong interest in **Quantum Physics**, **Space Exploration**, and other intriguing areas of science.
 
 ## 🚀 About Me
 - 🌱 I’m currently diving deeper into the world of **Artificial Intelligence** and **Deep Learning** to expand my knowledge and skills.
