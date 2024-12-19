@@ -1,16 +1,14 @@
-# Hello, Everyones 👋
+# Hello, Everyone! 👋
 
-My name is **Thanapol Suwannamek**, and I'm a 22-year-old Computer Science student at **Ramkhamhaeng University**. I'm passionate about the fascinating fields of **AI/Deep Learning**, and I love exploring other areas like **Quantum Physics**, **Space**, and **Basketball**.
+My name is **Thanapol Suwannamek**, and I'm a 22-year-old Computer Science student at **Ramkhamhaeng University**. I’m deeply passionate about the exciting fields of **AI/Deep Learning**, and I also have a strong interest in **Quantum Physics**, **Space Exploration**, and other intriguing areas of science.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning more about **Artificial Intelligence** and **Deep Learning**.
-- 💻 I’m focusing on improving my skills in **coding, algorithms, and data structures**.
-- 🎓 I'm studying **Computer Science** at **Ramkhamhaeng University**, looking forward to contributing to meaningful projects in the tech community.
-- 🏀 In my free time, I enjoy playing **basketball** and learning about **quantum physics** and **space exploration**.
-- 
+- 🌱 I’m currently diving deeper into the world of **Artificial Intelligence** and **Deep Learning** to expand my knowledge and skills.
+- 💻 I’m working on enhancing my abilities in **coding, algorithms, and data structures**, with a focus on solving real-world problems.
+- 🎓 As a **Computer Science** student at **Ramkhamhaeng University**, I'm eager to contribute to impactful projects and collaborate with like-minded individuals in the tech community.
+- 🏀 In my free time, you can find me playing **basketball**, exploring the wonders of **quantum physics** and **space exploration**, or enjoying some **video games**.
 
-
-Looking forward to connecting with you! 😊
+I'm excited to connect and learn from all of you! 😊
 
 <!---
 abdulthemagician/abdulthemagician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
